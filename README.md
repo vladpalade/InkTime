@@ -5,7 +5,7 @@ Proiect de smartwatch ultra-low power bazat pe microcontrolerul nRF52840 și dis
 ---
 
 ## 1. Diagramă Bloc
-![Diagrama Bloc](Images/diagrama.png)
+![Diagrama Bloc](Images/diagrama.jpeg)
 *Diagrama de interconectare a modulelor: nRF52840, Display E-Ink, RTC, Accelerometru și sistemul de alimentare.*
 
 ---
